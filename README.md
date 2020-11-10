@@ -1,4 +1,5 @@
 # Hog
+This project was created as a part of CS61A: Structure and Interpretation of Computer Programs using Python.
 
 In this project, developed a simulator and multiple strategies for the dice game Hog. Used control statements and higher-order functions together to create this simulated dice game.
 
